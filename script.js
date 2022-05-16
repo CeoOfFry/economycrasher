@@ -16,7 +16,7 @@ let p = false;
 function d_(_c) {
     let l = f_(_c, "like-item")[0];
     if (l.children[0].children[0].getAttribute("stroke") == '#8C8C8C') {
-        // l.click();
+        l.click();
         c_("liked post");
     }
 
@@ -27,7 +27,7 @@ function d_(_c) {
             let _l = _b.children[0];
 
             if (_l.children[0].children[0].getAttribute("stroke") == '#8C8C8C') {
-                // _l.click();
+                _l.click();
                 c_("liked reply");
             }
         }
