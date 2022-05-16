@@ -7,4 +7,4 @@ usage:
 - the script will automatically start, the only way to stop it is by refreshing the page
 
 lil desclaimer:
-- in some cases, a long time after running the script, PDB may throw you CORS errors (and Service Errors) and make it seem like you got "temp-banned" from the entire site, this is common and simply not running the script and waiting for the CORS errors to stop will get you back in PDB.
+- in some cases, a long time after running the script, PDB may throw you CORS errors (and Service Errors) and make it seem like you got "temp-banned" from the entire site, this is common and simply not running the script and waiting for the CORS errors and Service Errors to stop will get you back in PDB.
